@@ -12,5 +12,11 @@ Markdown is an easy-to-use markup language that is used with plain text to add f
 | Row 1, Column 1 | Row 1, Column 2 |
 | Row 2, Column 1 | Row 2, Column 2 |
 
+## Unordered list
+
+- Item 1
+- Item 2
+- Item 3
+
 
 
