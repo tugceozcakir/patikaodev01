@@ -40,6 +40,4 @@ Markdown is an easy-to-use markup language that is used with plain text to add f
 - [ ] Task 3
 
 
-
-
-
+[You can learn more by visiting this link](https://hackmd.io/s/how-to-create-table)
