@@ -33,6 +33,13 @@ Markdown is an easy-to-use markup language that is used with plain text to add f
 - Item 2
 - Item 3
 
+## Task list
+
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+
 
 
 
